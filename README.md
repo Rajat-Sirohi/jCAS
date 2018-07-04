@@ -9,8 +9,8 @@ From here, the GUI allows for input either via keyboard or the barebones buttons
 There are two functions which can be called: simplify OR solve. Then, just hit '='
 
 ```
-simplify(\<expr\>)
-solve(\<equation\>)
+simplify(<expr>)
+solve(<equation>)
 ```
 
 # Examples:
