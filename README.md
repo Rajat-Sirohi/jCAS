@@ -1,6 +1,8 @@
 # Run commands:
+```
 (1) javac *.java
 (2) java jCAS
+```
 
 From here, the GUI allows for input either via keyboard or the barebones buttons.
 There are two functions which can be called: simplify OR solve. Then, just hit '='
