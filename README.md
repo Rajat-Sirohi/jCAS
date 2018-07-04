@@ -1,4 +1,4 @@
-#Run commands:
+# Run commands:
 (1) javac *.java
 (2) java jCAS
 
