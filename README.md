@@ -19,3 +19,5 @@ simplify((x+1)*2)
 OR
 solve(x^2=1)
 ```
+
+![alt image](jcas.png?raw=true "Solve x^2 = 1")
